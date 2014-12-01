@@ -7,8 +7,7 @@
 * [Import Function](book/admin/2import.md)
 * [Operating Instructions](book/4.0operations.md)
     * [Preferences](book/admin/4.1preferences.md)
-    * [Display Type, Pagination](book/admin/4.1preferences2.md)
-    * 
+    * [Display Type, Pagination](book/admin/4.1preferences2.md) 
     * [Categories](book/admin/4.2categories.md)
     * [Permissions](book/admin/4.3permissions.md)
     * [Blocks & Groups](book/admin/4.4blocks.md)
