@@ -20,7 +20,7 @@
 * [Open question menu - link](book/users/credits.md)
 * [Request QA menu - link](book/users/credits.md)
 * [Submit a Q&A menu - link](book/users/credits.md)
-* [Blocks](book/users/credits.md)
+* Blocks
     * [Did you know ? block -More details link](book/users/8.9Blocks.md)
     * [Random question block answer link](book/users/credits.md)
     * [How do I ... block answer here! link](book/users/credits.md)
