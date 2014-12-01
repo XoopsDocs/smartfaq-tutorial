@@ -15,8 +15,9 @@
 * zz
 <br>**References**
 * SmartFAQ Workflow Charts
-    * SmartFAQ Workflow
-    * FAQ Notifications
-    * Question Notification
+    * [SmartFAQ Workflow](references/workflow1.md)
+    * [FAQ Notifications](references/workflow2.md)
+    * [Question Notification](references/workflow3.md)
+* 
 
 
