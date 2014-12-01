@@ -13,7 +13,7 @@
 * [Other](book/8other.md) //delete, if not used
 * [Module Credits](book/9credits.md)
 * zz
-<br>**References**
+<br><br>**References**<br><br>
 * SmartFAQ Workflow Charts
     * [SmartFAQ Workflow](references/workflow1.md)
     * [FAQ Notifications](references/workflow2.md)
