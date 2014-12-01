@@ -1,7 +1,7 @@
 # Table of Content
 
-* [Overview](book/0introduction.md)<br>**
-<br>**Administrators Guide**
+* [Overview](book/0introduction.md)<br>
+<br>**Administrators Guide**<br><br>
 * [Install/Uninstall](book/1install.md)
 * [Administration Menu](book/2administration.md)
 * [Preferences](book/3preferences.md)
