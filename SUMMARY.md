@@ -27,7 +27,7 @@
     * [8.11How do I ... block answer here! link](book/users/credits.md)
 * [9.0User Icons](book/users/9.0UserIcons.md)
     * [9.1User- Print](book/users/9.1User-Print.md)
-    * [9.2User- Send](book/users/[9.2User-Send.md)
+    * [9.2User- Send](book/users/9.2User-Send.md)
     * [9.3User- New Answer](book/users/9.3User-NewAnswer.md)
     * [9.4User- Edit](book/users/9.4User-Edit.md)
     * [9.5User- Delete](book/users/9.5User-Delete.md)
