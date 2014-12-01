@@ -11,7 +11,6 @@
 * [Blocks](book/6blocks.md)
 * [Templates](book/7templates.md)
 * [Other](book/8other.md) //delete, if not used
-* [Module Credits](book/9credits.md)
 * [--------8.0The module index page.](book/users/8.0IndexPage.md)
 * [8.1Category Summary - text link](book/users/8.1Category Summary.md)
 * [8.2Category Summary - link Last Q&A published](book/users/credits.md)
@@ -34,6 +33,7 @@
 * [Entering Content.](book/users/10EnterContent.md)
 * [Notifications](book/users/11Notifications.md)
 * [Notification template examples](book/users/11.1NotificationsTemplates.md)
+* [Module Credits](book/9credits.md)
 <br><br>**References**<br><br>
 * SmartFAQ Workflow Charts
     * [SmartFAQ Workflow](book/references/workflow1.md)
