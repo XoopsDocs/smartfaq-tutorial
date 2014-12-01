@@ -1,4 +1,4 @@
-# 10.0 Entering Content
+# Entering Content
 
 
 The Submit Q&A link in the main menu opens a detailed form for creating a question and answer combination. The answer field can be short or detailed as required. There is no limitation to length of the detailed answer. 
