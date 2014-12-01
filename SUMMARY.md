@@ -18,6 +18,8 @@
     * [SmartFAQ Workflow](references/workflow1.md)
     * [FAQ Notifications](references/workflow2.md)
     * [Question Notification](references/workflow3.md)
-* 
+* [Applications](references/12.1Applications.md)
+* [Dublin Core Metadata](references/12.2Dublin.md)
+* [XOOPS Content Management System](references/12.4XOOPS.md)
 
 
