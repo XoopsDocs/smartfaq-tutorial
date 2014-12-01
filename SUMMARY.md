@@ -5,10 +5,21 @@
 * [Install/Uninstall](book/admin/1install.md)
 * [Administration Menu](book/admin/2administration.md)
 * [Import Function](book/admin/2import.md)
-* [Preferences](book/admin/3preferences.md)
-* [Operating Instructions](book/4operations.md)
+* [Operating Instructions](book/4.0operations.md)
+    * [Preferences](book/admin/4.1preferences.md)
+    * [Display Type, Pagination](book/admin/4.1preferences2.md)
+    * 
+    * [Categories](book/admin/4.2categories.md)
+    * [Permissions](book/admin/4.3permissions.md)
+    * [Blocks & Groups](book/admin/4.4blocks.md)
+    * [Q&A Entering Question and Answers](book/admin/4.5entering_q+a.md)
+    * [Open Questions](book/admin/4.6openquestions.md)
+    * [Managing content in SmartFAQ module](book/admin/4.7.0managingcontent.md)
+        * [Sort Order & Status options](book/admin/4.7.1sortorder.md)
+        * [Edit submissions.](book/admin/4.7.1editsubmission.md)
+    * [Operating Instructions](book/admin/4operations4.md)
+
 * [The User Side](book/5userside.md)
-* [Blocks](book/admin/6blocks.md)
 * [Templates](book/7templates.md)
 * [Other](book/8other.md) //delete, if not used
 <br><br>**A Guide for Users **<br><br>
@@ -28,7 +39,7 @@
 * [User Icons](book/users/9.0UserIcons.md)
     * [User- Print](book/users/9.1User-Print.md)
     * [User- Send](book/users/9.2User-Send.md)
-    * [3User- New Answer](book/users/9.3User-NewAnswer.md)
+    * [User- New Answer](book/users/9.3User-NewAnswer.md)
     * [User- Edit](book/users/9.4User-Edit.md)
     * [User- Delete](book/users/9.5User-Delete.md)
 * [Entering Content.](book/users/10EnterContent.md)

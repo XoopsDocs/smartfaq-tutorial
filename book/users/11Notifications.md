@@ -1,4 +1,4 @@
-# 11.0 Notifications
+# Notifications
 
 SmartFAQ features full content **Notifications**. This is part of the Xoops system notifications and the options needs to be set to display in the module **preferences page**. Notifications are an efficient way of keeping up to date and informed of all kinds of activities in the SmartFAQ module. You can be notified for various levels of changes, from new categories created down to a new answer submitted for a specific question that you have asked. This feature provides a similar response to a 'Help Desk' . There are many options available to administrators to display notifications types. These will vary according to specific websites setups. This page outlines all available options. If you are an administrator of a site, this help page will be useful in conjunction with setting option for notifications in the **preferences page** .
 
