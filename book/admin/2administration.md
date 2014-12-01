@@ -7,4 +7,4 @@ We need to setup preferences and create at least one category before the module 
 
 Page: /modules/smartfaq/admin/index.php
 
-![Alternative text](../assets/index.png)
+![Alternative text](../../assets/index.png)
