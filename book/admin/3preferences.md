@@ -9,9 +9,9 @@ We will now open the preferences page. The module will work with the default val
 
 Page: /modules/system/admin.php?fct=preferences&op=showmod&mod=24
 
-![Alternative text](../assets/preferences.png)  
+![Alternative text](../../assets/preferences.png)  
 
-![Alternative text](../assets/preferences1.png)  
-![Alternative text](../assets/preferences2.png)  
+![Alternative text](../../assets/preferences1.png)  
+![Alternative text](../../assets/preferences2.png)  
 
 
