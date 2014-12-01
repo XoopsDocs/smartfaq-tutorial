@@ -2,13 +2,13 @@
 
 * [Overview](book/0introduction.md)<br>
 <br>**Administrators Guide**<br><br>
-* [Install/Uninstall](book/1install.md)
-* [Administration Menu](book/2administration.md)
-* [Import Function](book/import.md)
-* [Preferences](book/3preferences.md)
+* [Install/Uninstall](book/admin/1install.md)
+* [Administration Menu](book/admin/2administration.md)
+* [Import Function](book/admin/import.md)
+* [Preferences](book/admin/3preferences.md)
 * [Operating Instructions](book/4operations.md)
 * [The User Side](book/5userside.md)
-* [Blocks](book/6blocks.md)
+* [Blocks](book/admin/6blocks.md)
 * [Templates](book/7templates.md)
 * [Other](book/8other.md) //delete, if not used
 <br><br>**A Guide for Users **<br><br>
