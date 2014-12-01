@@ -36,11 +36,11 @@
 * [11.1Notification template examples](book/users/credits.md)
 <br><br>**References**<br><br>
 * SmartFAQ Workflow Charts
-    * [SmartFAQ Workflow](references/workflow1.md)
-    * [FAQ Notifications](references/workflow2.md)
-    * [Question Notification](references/workflow3.md)
-* [Applications](references/12.1Applications.md)
-* [Dublin Core Metadata](references/12.2Dublin.md)
-* [XOOPS Content Management System](references/12.4XOOPS.md)
+    * [SmartFAQ Workflow](book/references/workflow1.md)
+    * [FAQ Notifications](book/references/workflow2.md)
+    * [Question Notification](book/references/workflow3.md)
+* [Applications](book/references/12.1Applications.md)
+* [Dublin Core Metadata](book/references/12.2Dublin.md)
+* [XOOPS Content Management System](book/references/12.4XOOPS.md)
 
 
