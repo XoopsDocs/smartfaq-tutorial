@@ -15,4 +15,9 @@
 * zz
  
 <br>**References**
+* SmartFAQ Workflow Charts
+    * SmartFAQ Workflow
+    * FAQ Notifications
+    * Question Notification
+
 
