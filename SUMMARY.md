@@ -4,7 +4,7 @@
 <br>**Administrators Guide**<br><br>
 * [Install/Uninstall](book/admin/1install.md)
 * [Administration Menu](book/admin/2administration.md)
-* [Import Function](book/admin/import.md)
+* [Import Function](book/admin/2import.md)
 * [Preferences](book/admin/3preferences.md)
 * [Operating Instructions](book/4operations.md)
 * [The User Side](book/5userside.md)
