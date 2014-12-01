@@ -29,7 +29,7 @@
 * [User Icons](book/users/9.0UserIcons.md)
     * [User- Print](book/users/9.1User-Print.md)
     * [User- Send](book/users/9.2User-Send.md)
-    * [3User- New Answer](book/users/9.3User-NewAnswer.md)
+    * [User- New Answer](book/users/9.3User-NewAnswer.md)
     * [User- Edit](book/users/9.4User-Edit.md)
     * [User- Delete](book/users/9.5User-Delete.md)
 * [Entering Content.](book/users/10EnterContent.md)
