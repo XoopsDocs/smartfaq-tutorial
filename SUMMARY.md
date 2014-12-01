@@ -6,15 +6,15 @@
 * [Administration Menu](book/2administration.md)
 * [Preferences](book/3preferences.md)
 * [Operating Instructions](book/4operations.md)
-<br><br>**A Guide for Users **<br><br>
 * [The User Side](book/5userside.md)
 * [Blocks](book/6blocks.md)
 * [Templates](book/7templates.md)
 * [Other](book/8other.md) //delete, if not used
-* [--------8.0The module index page.](book/users/8.0IndexPage.md)
-* [8.1Category Summary - text link](book/users/8.1Category Summary.md)
-* [8.2Category Summary - link Last Q&A published](book/users/credits.md)
-* [8.3Category summary, Sub-category - link last Q&A published](book/users/credits.md)
+<br><br>**A Guide for Users **<br><br>
+* [The module index page.](book/users/8.0IndexPage.md)
+* [Category Summary - text link](book/users/8.1Category Summary.md)
+* [Category Summary - link Last Q&A published](book/users/credits.md)
+* [Category summary, Sub-category - link last Q&A published](book/users/credits.md)
 * [8.4Last published Q&A - link](book/users/credits.md)
 * [8.5Categories, Subcategory -text link](book/users/credits.md)
 * [8.6Open question menu - link](book/users/credits.md)
