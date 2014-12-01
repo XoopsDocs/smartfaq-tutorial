@@ -7,8 +7,7 @@
 * [Import Function](book/admin/2import.md)
 * [Operating Instructions](book/4.0operations.md)
     * [Preferences](book/admin/4.1preferences.md)
-    * [Display Type, Pagination](book/admin/4.1preferences2.md)
-    * 
+    * [Display Type, Pagination](book/admin/4.1preferences2.md) 
     * [Categories](book/admin/4.2categories.md)
     * [Permissions](book/admin/4.3permissions.md)
     * [Blocks & Groups](book/admin/4.4blocks.md)
@@ -18,7 +17,6 @@
         * [Sort Order & Status options](book/admin/4.7.1sortorder.md)
         * [Edit submissions.](book/admin/4.7.1editsubmission.md)
     * [Operating Instructions](book/admin/4operations4.md)
-
 * [The User Side](book/5userside.md)
 * [Templates](book/7templates.md)
 * [Other](book/8other.md) //delete, if not used
