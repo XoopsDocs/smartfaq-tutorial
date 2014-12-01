@@ -20,13 +20,13 @@ The Submit Q&A link in the main menu opens a detailed form for creating a questi
 
  ![image001.png](../../assets/quote.gif) quote. Allows a piece of text to be segregated in a highlighted box, denoting a quoted source.
 
- ![image001.png](../../assets/url.gif) Selector Options for different size of text to be inputted
+ ![image001.png](../../assets/size.png) Selector Options for different size of text to be inputted
 
- ![image001.png](../../assets/url.gif) Selector Options for selected alternative fonts to be used
+ ![image001.png](../../assets/font.png) Selector Options for selected alternative fonts to be used
 
- ![image001.png](../../assets/url.gif) Selector Options for selected colours to be used with fonts and texts options above.
+ ![image001.png](../../assets/colour.png) Selector Options for selected colours to be used with fonts and texts options above.
 
- ![image001.png](../../assets/url.gif) All text to be formatted should be entered in this field before apply formatting options.
+ ![image001.png](../../assets/add.png) All text to be formatted should be entered in this field before apply formatting options.
 
  ![image001.png](../../assets/bold.gif) bold. Causes text to be bolded.
 
@@ -34,4 +34,7 @@ The Submit Q&A link in the main menu opens a detailed form for creating a questi
 
  ![image001.png](../../assets/underline.gif) underline. Causes text to be underlined.
  
-![image001.png](../../assets/linethrough.gif) linethrough.  Causes text to have a line through. linethrough. Causes text to have a line through.
+![image001.png](../../assets/linethrough.gif) linethrough.  Causes text to have a line through. 
+
+
+
