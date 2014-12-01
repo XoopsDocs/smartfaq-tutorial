@@ -1,4 +1,4 @@
-# 3.0 Preferences
+# Preferences
 
 
 We will now open the preferences page. The module will work with the default values that you will see below, but you may wish to change some of these. Most of these settings have brief explanations against them, but we have added detailed help notes over some of these settings. Please note, the preferences page is long, so it has been divided into 2 sections in the images below.
