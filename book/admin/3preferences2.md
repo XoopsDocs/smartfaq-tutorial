@@ -12,10 +12,10 @@ Administrators have an option in Preferences called Q&As display type. This sett
 Page: /modules/system/admin.php?fct=preferences&op=showmod&mod=24
 
 
-![Alternative text](../assets/full.png)  
+![Alternative text](../../assets/full.png)  
 Showing "Full View"
 
-![Alternative text](../assets/summary.png)  
+![Alternative text](../../assets/summary.png)  
 
 Showing "Summary View"
 
@@ -26,4 +26,4 @@ Administrators have an option in Preferences called **Use the image page navigat
 
 Page: /modules/smartfaq/
 
-![Alternative text](../assets/navigate.png)  
+![Alternative text](../../assets/navigate.png)  
