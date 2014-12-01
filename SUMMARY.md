@@ -34,7 +34,6 @@
 * [10.0Entering Content.](book/users/10EnterContent.md)
 * [11.0Notifications](book/users/11Notifications.md)
 * [11.1Notification template examples](book/users/credits.md)
-
 <br><br>**References**<br><br>
 * SmartFAQ Workflow Charts
     * [SmartFAQ Workflow](references/workflow1.md)
