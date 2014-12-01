@@ -6,6 +6,7 @@
 * [Administration Menu](book/admin/2administration.md)
 * [Import Function](book/admin/2import.md)
 * [Preferences](book/admin/3preferences.md)
+    * [Display Type, Pagination](book/admin/3preferences2.md)
 * [Operating Instructions](book/4operations.md)
 * [The User Side](book/5userside.md)
 * [Blocks](book/admin/6blocks.md)
