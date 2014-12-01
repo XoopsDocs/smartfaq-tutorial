@@ -33,7 +33,7 @@
     * [9.5User- Delete](book/users/9.5User-Delete.md)
 * [10.0 Entering Content.](book/users/10EnterContent.md)
 * [11.0 Notifications](book/users/11Notifications.md)
-* [11.1 Notification template examples](book/users/credits.md)
+* [11.1 Notification template examples](book/users/11.1NotificationsTemplates.md)
 <br><br>**References**<br><br>
 * SmartFAQ Workflow Charts
     * [SmartFAQ Workflow](book/references/workflow1.md)
