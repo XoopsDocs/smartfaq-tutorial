@@ -1,7 +1,8 @@
 # 10.0 Entering Content
 
 
-The Submit Q&A link in the main menu opens a detailed form for creating a question and answer combination. The answer field can be short or detailed as required. There is no limitation to length of the detailed answer and SmartFAQ offers some useful formatting options as follows.
+The Submit Q&A link in the main menu opens a detailed form for creating a question and answer combination. The answer field can be short or detailed as required. There is no limitation to length of the detailed answer. 
+If you use the DHTML Editor, SmartFAQ offers some useful formatting options as follows:
 
 
 **Page: /modules/smartfaq/submit.php?op=add **
