@@ -5,14 +5,21 @@
 * [Install/Uninstall](book/admin/1install.md)
 * [Administration Menu](book/admin/2administration.md)
 * [Import Function](book/admin/2import.md)
-* [Preferences](book/admin/3preferences.md)
-    * [Display Type, Pagination](book/admin/3preferences2.md)
 * [Operating Instructions](book/4operations.md)
-    * [Operating Instructions](book/4operations2.md)
-    * [Operating Instructions](book/4operations3.md)
+    * [Preferences](book/admin/3preferences.md)
+    * [Display Type, Pagination](book/admin/3preferences2.md)
+    * [Categories](book/4operations2.md)
+    * [Permissions](book/4operations3.md)
+    * [Blocks & Groups](book/admin/6blocks.md)
+    * [Q&A Entering Question and Answers](book/4operations4.md)
+    * [Open Questions](book/4operations4.md)
+    * [Managing content in SmartFAQ module](book/4operations4.md)
+    * [Managing content- Sort Order & Status options](book/4operations4.md)
+    * [ Managing content- Edit submissions.](book/4operations4.md)
     * [Operating Instructions](book/4operations4.md)
-* [The User Side](book/5userside.md)
-* [Blocks](book/admin/6blocks.md)
+    * [The User Side](book/5userside.md)
+
+
 * [Templates](book/7templates.md)
 * [Other](book/8other.md) //delete, if not used
 <br><br>**A Guide for Users **<br><br>
