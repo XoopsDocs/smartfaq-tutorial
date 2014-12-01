@@ -1,4 +1,4 @@
-# 1.0 Install/Uninstall
+# Install/Uninstall
 
 
 1. Installation follows the usual Xoops routine. After downloading the module distribution pack, decompress the file and open the folder and any nested folder beneath until you find the main module files. These will be in a folder called smartfaq. This parent folder will be uploaded to your server into the 'Modules' directory. Now open and view and 'Readme' or changelog files and follow any directions given. There are no pre-install configurations required for this module. <br><br>  
