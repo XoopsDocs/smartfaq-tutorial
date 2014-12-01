@@ -17,7 +17,6 @@
         * [Sort Order & Status options](book/admin/4.7.1sortorder.md)
         * [Edit submissions.](book/admin/4.7.1editsubmission.md)
     * [Operating Instructions](book/admin/4operations4.md)
-
 * [The User Side](book/5userside.md)
 * [Templates](book/7templates.md)
 * [Other](book/8other.md) //delete, if not used
