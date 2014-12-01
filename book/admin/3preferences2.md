@@ -1,5 +1,3 @@
-# 2.1 Display Types
-
 # 2.1 Other Preferences
 
 ### Display Types (Full View or Summary View.)
