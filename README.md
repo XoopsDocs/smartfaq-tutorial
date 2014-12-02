@@ -26,7 +26,7 @@ SmartFAQ, as you would probably have guessed it by the name, is a Frequently Ask
 - At any time, users can submit a better answer for a Q&A that already has an answer. This newly submitted answer will obviously need to be approved by a moderator.
 
 ![image001.png](assets/img1.jpg)
-*Figure 1: Main view of the XXX Module (Admin side)*
+*Figure 1: Main view of the Module Admin side*
 
 # Table of Content
 
