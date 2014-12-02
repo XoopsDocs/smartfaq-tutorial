@@ -19,7 +19,8 @@ Submitting an open question
 
 ![image001.png](../../assets/note-submit-answer.png)
 
-Submitting a Q&A
+#### Submitting a Q&A
+
 
 Here is the full list of available notification options available in **admin/ preferences** (enable specific events) with descriptions.
 
