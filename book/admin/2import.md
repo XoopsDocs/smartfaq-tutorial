@@ -4,7 +4,7 @@ SmartFAQ allows you to keep and reuse all your existing data if you have either 
 
 
 
->**NOTE**: You must create at least one category in the SmartFAQ module before importing any files.
+>![image001.png](../../assets/info/tips.gif) **TIP:**  You must create at least one category in the SmartFAQ module before importing any files.
 
 **Page: /modules/smartfaq/admin/import.php**
 

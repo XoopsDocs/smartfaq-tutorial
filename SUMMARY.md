@@ -1,7 +1,7 @@
 # Table of Content
 
-* [Overview](book/0introduction.md)<br>
-<br>**Administrators Guide**<br><br>
+* [Overview](book/0introduction.md)<br><br>
+* **Administrators Guide**<br><br>
 * [Install/Uninstall](book/admin/1install.md)
 * [Administration Menu](book/admin/2administration.md)
 * [Import Function](book/admin/2import.md)
@@ -16,24 +16,20 @@
     * [Managing content in SmartFAQ module](book/admin/4.7.0managingcontent.md)
         * [Sort Order & Status options](book/admin/4.7.1sortorder.md)
         * [Edit submissions.](book/admin/4.7.1editsubmission.md)
-    * [Operating Instructions](book/admin/4operations4.md)
-* [The User Side](book/5userside.md)
-* [Templates](book/7templates.md)
-* [Other](book/8other.md) //delete, if not used
-<br><br>**A Guide for Users **<br><br>
+* ** Guide for Users**<br><br>
 * [The module index page.](book/users/8.0IndexPage.md)
 * [Category Summary - text link](book/users/8.1Category Summary.md)
-* [Category Summary - link Last Q&A published](book/users/credits.md)
-* [Category summary, Sub-category - link last Q&A published](book/users/credits.md)
-* [Last published Q&A - link](book/users/credits.md)
-* [Categories, Subcategory -text link](book/users/credits.md)
-* [Open question menu - link](book/users/credits.md)
-* [Request QA menu - link](book/users/credits.md)
-* [Submit a Q&A menu - link](book/users/credits.md)
-* Blocks
-    * [Did you know ? block -More details link](book/users/8.9Blocks.md)
-    * [Random question block answer link](book/users/credits.md)
-    * [How do I ... block answer here! link](book/users/credits.md)
+* [Category Summary - link Last Q&A published](book/users/8.2summarylastlink.md)
+* [Category summary, Sub-category - link last Q&A published](book/users/8.3summarysubcategory.md)
+* [Last published Q&A - link](book/users/8.4lastpublished.md)
+* [Categories, Subcategory -text link](book/users/8.5subcategories.md)
+* [Open question menu - link](book/users/8.6openquestion.md)
+* [Request QA menu - link](book/users/8.7requestmenu.md)
+* [Submit a Q&A menu - link](book/users/8.8submitmenu.md)
+* [Blocks](book/users/8.9Blocks.md)
+    * Did you know? block -More details link
+    * Random question block answer link
+    * How do I ... block answer here! link
 * [User Icons](book/users/9.0UserIcons.md)
     * [User- Print](book/users/9.1User-Print.md)
     * [User- Send](book/users/9.2User-Send.md)
