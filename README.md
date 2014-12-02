@@ -45,7 +45,7 @@ SmartFAQ, as you would probably have guessed it by the name, is a Frequently Ask
     * [Open Questions](book/admin/4.6openquestions.md)
     * [Managing content in SmartFAQ module](book/admin/4.7.0managingcontent.md)
         * [Sort Order & Status options](book/admin/4.7.1sortorder.md)
-        * [Edit submissions.](book/admin/4.7.1editsubmission.md)
+        * [Edit submissions.](book/admin/4.7.1editsubmission.md)<br><br>
 * ** Guide for Users**<br><br>
 * [The module index page.](book/users/8.0IndexPage.md)
 * [Category Summary - text link](book/users/8.1Category Summary.md)
