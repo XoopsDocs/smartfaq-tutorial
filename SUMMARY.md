@@ -26,10 +26,10 @@
 * [Open question menu - link](book/users/credits.md)
 * [Request QA menu - link](book/users/credits.md)
 * [Submit a Q&A menu - link](book/users/credits.md)
-* Blocks
-    * [Did you know ? block -More details link](book/users/8.9Blocks.md)
-    * [Random question block answer link](book/users/credits.md)
-    * [How do I ... block answer here! link](book/users/credits.md)
+* [Blocks](book/users/8.9Blocks.md)
+    * Did you know ? block -More details link
+    * Random question block answer link
+    * How do I ... block answer here! link
 * [User Icons](book/users/9.0UserIcons.md)
     * [User- Print](book/users/9.1User-Print.md)
     * [User- Send](book/users/9.2User-Send.md)
