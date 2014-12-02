@@ -19,13 +19,13 @@
 * ** Guide for Users**<br><br>
 * [The module index page.](book/users/8.0IndexPage.md)
 * [Category Summary - text link](book/users/8.1Category Summary.md)
-* [Category Summary - link Last Q&A published](book/users/credits.md)
-* [Category summary, Sub-category - link last Q&A published](book/users/credits.md)
-* [Last published Q&A - link](book/users/credits.md)
-* [Categories, Subcategory -text link](book/users/credits.md)
-* [Open question menu - link](book/users/credits.md)
-* [Request QA menu - link](book/users/credits.md)
-* [Submit a Q&A menu - link](book/users/credits.md)
+* [Category Summary - link Last Q&A published](book/users/8.2summarylastlink.md)
+* [Category summary, Sub-category - link last Q&A published](book/users/8.3summarysubcategory.md)
+* [Last published Q&A - link](book/users/8.4lastpublished.md)
+* [Categories, Subcategory -text link](book/users/8.5subcategories.md)
+* [Open question menu - link](book/users/8.6openquestion.md)
+* [Request QA menu - link](book/users/8.7requestmenu.md)
+* [Submit a Q&A menu - link](book/users/8.8submitmenu.md)
 * [Blocks](book/users/8.9Blocks.md)
     * Did you know? block -More details link
     * Random question block answer link
