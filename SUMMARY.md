@@ -1,7 +1,7 @@
 # Table of Content
 
-* [Overview](book/0introduction.md)<br>
-<br>**Administrators Guide**<br><br>
+* [Overview](book/0introduction.md)<br><br>
+* **Administrators Guide**<br><br>
 * [Install/Uninstall](book/admin/1install.md)
 * [Administration Menu](book/admin/2administration.md)
 * [Import Function](book/admin/2import.md)
@@ -16,7 +16,7 @@
     * [Managing content in SmartFAQ module](book/admin/4.7.0managingcontent.md)
         * [Sort Order & Status options](book/admin/4.7.1sortorder.md)
         * [Edit submissions.](book/admin/4.7.1editsubmission.md)
-<br><br>**A Guide for Users **<br><br>
+* ** Guide for Users**<br><br>
 * [The module index page.](book/users/8.0IndexPage.md)
 * [Category Summary - text link](book/users/8.1Category Summary.md)
 * [Category Summary - link Last Q&A published](book/users/credits.md)
