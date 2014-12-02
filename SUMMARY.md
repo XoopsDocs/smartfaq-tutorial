@@ -16,10 +16,6 @@
     * [Managing content in SmartFAQ module](book/admin/4.7.0managingcontent.md)
         * [Sort Order & Status options](book/admin/4.7.1sortorder.md)
         * [Edit submissions.](book/admin/4.7.1editsubmission.md)
-    * [Operating Instructions](book/admin/4operations4.md)
-* [The User Side](book/5userside.md)
-* [Templates](book/7templates.md)
-* [Other](book/8other.md) //delete, if not used
 <br><br>**A Guide for Users **<br><br>
 * [The module index page.](book/users/8.0IndexPage.md)
 * [Category Summary - text link](book/users/8.1Category Summary.md)
