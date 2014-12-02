@@ -1,3 +1,3 @@
 # SmartFAQ Question Notification System
 
-![image001.png](../../assets/gif_3.gif)
+![image001.png](../../assets/Charts_img_03.png)
