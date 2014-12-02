@@ -27,7 +27,7 @@
 * [Request QA menu - link](book/users/credits.md)
 * [Submit a Q&A menu - link](book/users/credits.md)
 * [Blocks](book/users/8.9Blocks.md)
-    * Did you know ? block -More details link
+    * Did you know? block -More details link
     * Random question block answer link
     * How do I ... block answer here! link
 * [User Icons](book/users/9.0UserIcons.md)
