@@ -5,7 +5,7 @@
 * [Install/Uninstall](book/admin/1install.md)
 * [Administration Menu](book/admin/2administration.md)
 * [Import Function](book/admin/2import.md)
-* [Operating Instructions](book/4.0operations.md)
+* [Operating Instructions](book/admin/4.0operations.md)
     * [Preferences](book/admin/4.1preferences.md)
     * [Display Type, Pagination](book/admin/4.1preferences2.md) 
     * [Categories](book/admin/4.2categories.md)

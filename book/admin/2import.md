@@ -1,11 +1,27 @@
-# 2.1 Display Types
+# Import into SmartFAQ module categories and questions
 
-## (Full View or Summary View.)
+SmartFAQ allows you to keep and reuse all your existing data if you have either Xoops FAQ or WF-FAQ installed on your system. It also gives you useful options to control how the material is displayed, authored and which groups can view it. The following images represent a typical import sequence for data from the XoopsFAQ 1.1 module. This import section has been shown early in the guide, so that you are aware of the feature and can plan your content categories accordingly if required.
 
-Administrators have an option in Preferences called Q&As display type. This setting will either show all Q&As to display as Full View where questions including answers are shown, or simply in Summary View. Here, only the question title is displayed in a list. The Question title becomes a clickable link that opens the full question and answer in another page. The summary option is useful if many questions need to be listed in a single page.
 
- Note this is an administration setting and cannot be changed by users.
 
-Return to last page here...
+>**NOTE**: You must create at least one category in the SmartFAQ module before importing any files.
 
-Page: /modules/system/admin.php?fct=preferences&op=showmod&mod=24
+**Page: /modules/smartfaq/admin/import.php**
+
+![image001.png](../../assets/import1.png) 
+
+1- Select an existing module to import from and click Import
+
+![image001.png](../../assets/import2.png) 
+
+2- Make import settings for your content
+
+![image001.png](../../assets/import3.png) 
+
+3- Cut-away of category selector showing categories and subcategories indented
+
+![image001.png](../../assets/import4.png) 
+
+4- Successful import of data: summarizing material imported to module.
+
+Fig. 4 Import routine
