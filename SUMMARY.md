@@ -49,4 +49,3 @@
 * [Dublin Core Metadata](book/references/12.2Dublin.md)
 * [XOOPS Content Management System](book/references/12.4XOOPS.md)
 
-
