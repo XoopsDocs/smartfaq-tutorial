@@ -1,0 +1,2 @@
+# SmartFAQ Workflow Charts
+
