@@ -2,7 +2,7 @@
 
 Notifications can be posted directly to your onsite inbox, or to your email address as entered in your profile page. Below is a list of all possible notifications displayed in template form. {Smarty tags} will write in relevant details into the title, body and references of the notifications.
 
-> ![image001.png](.gitbook/assets/info.png) **NOTE:**  ~~This page is linked to Notifications page. It details the templates that generate notifications.~~
+> ![](.gitbook/assets/info.png) **NOTE:**  ~~This page is linked to Notifications page. It details the templates that generate notifications.~~
 
 **1- Global FAQ category created**
 

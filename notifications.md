@@ -4,19 +4,19 @@ SmartFAQ features full content **Notifications**. This is part of the Xoops syst
 
 Page: Various. \(Examples of notification block may be displayed in center block \[inline\] or as below, or in a side block\)
 
-![image001.png](.gitbook/assets/notifications.png)
+![](.gitbook/assets/notifications.png)
 
-![image001.png](.gitbook/assets/note-category-global.png)
+![](.gitbook/assets/note-category-global.png)
 
-![image001.png](.gitbook/assets/note-category-global-opened-questions.png)
+![](.gitbook/assets/note-category-global-opened-questions.png)
 
-![image001.png](.gitbook/assets/note-category-global-qa.png)
+![](.gitbook/assets/note-category-global-qa.png)
 
-![image001.png](.gitbook/assets/note-request-qa.png)
+![](.gitbook/assets/note-request-qa.png)
 
 Submitting an open question
 
-![image001.png](.gitbook/assets/note-submit-answer.png)
+![](.gitbook/assets/note-submit-answer.png)
 
 ## Submitting a Q&A
 

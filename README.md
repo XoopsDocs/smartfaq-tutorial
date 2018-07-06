@@ -10,7 +10,7 @@
 
 ### User Manual
 
-© 2016 XOOPS Project \(www.xoops.org\)
+© 2018 XOOPS Project \(www.xoops.org\)
 
 ### Module Purpose
 
@@ -29,7 +29,7 @@ SmartFAQ, as you would probably have guessed it by the name, is a Frequently Ask
 
  _Figure 1: Main view of the Module Admin side_
 
-![image001.png](.gitbook/assets/img1.jpg)
+![](.gitbook/assets/img1.jpg)
 
 ## Download/Fork the Module ![](https://xoops.org/images/forkit.png) 
 

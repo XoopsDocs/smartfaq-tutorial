@@ -4,7 +4,7 @@ The second type of content is an open question. It follows a similar format to *
 
 Page: /modules/smartfaq/admin/question.php
 
-![image001.png](../.gitbook/assets/open.png)
+![](../.gitbook/assets/open.png)
 
 Fig. 16 Open questions page
 

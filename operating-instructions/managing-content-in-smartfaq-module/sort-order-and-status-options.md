@@ -6,9 +6,9 @@ On this page we see the details of the selector filters displayed in the adminis
 
 ## Filter 1- 'Sort order' filter options \(with descriptions of actions\)
 
-![image001.png](../../.gitbook/assets/sort.png) In this filter the following options and actions can be selected:
+![](../../.gitbook/assets/sort.png) In this filter the following options and actions can be selected:
 
-![image001.png](../../.gitbook/assets/sort-1.png)
+![](../../.gitbook/assets/sort-1.png)
 
 \[Selector opened\]
 
@@ -20,7 +20,7 @@ On this page we see the details of the selector filters displayed in the adminis
 | Created | List all items by date of creation. May be reversed by second selector below. |
 | Weight | Lists all items by weight. The order of display. This may be set manually when creating or editing an item. |
 
-![image001.png](../../.gitbook/assets/sort-2.png)
+![](../../.gitbook/assets/sort-2.png)
 
 \[Selector opened\]
 
@@ -35,23 +35,23 @@ These following images detail 9 filter options that can be selected from theStat
 
 ## Filter 2- 'Select a status' filter options \(with image details of each option\)
 
-![image001.png](../../.gitbook/assets/q-asked.png)
+![](../../.gitbook/assets/q-asked.png)
 
-![image001.png](../../.gitbook/assets/q-opened.png)
+![](../../.gitbook/assets/q-opened.png)
 
-![image001.png](../../.gitbook/assets/q-answered.png)
+![](../../.gitbook/assets/q-answered.png)
 
-![image001.png](../../.gitbook/assets/q-submitted.png)
+![](../../.gitbook/assets/q-submitted.png)
 
-![image001.png](../../.gitbook/assets/q-published.png)
+![](../../.gitbook/assets/q-published.png)
 
-![image001.png](../../.gitbook/assets/q-newanswer.png)
+![](../../.gitbook/assets/q-newanswer.png)
 
-![image001.png](../../.gitbook/assets/q-offline.png)
+![](../../.gitbook/assets/q-offline.png)
 
-![image001.png](../../.gitbook/assets/q-rejected.png)
+![](../../.gitbook/assets/q-rejected.png)
 
-![image001.png](../../.gitbook/assets/q-rejected_q-and-a.png)
+![](../../.gitbook/assets/q-rejected_q-and-a.png)
 
 Fig. 18 Various status filter pages
 

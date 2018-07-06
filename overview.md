@@ -2,7 +2,7 @@
 
 ![logoModule.png](.gitbook/assets/logomodule.png)
 
-> ![image001.png](https://github.com/xoops/smartfaq-tutorial/tree/d31651f51362e8bde4fba68a371aaaf271be37c4/assets/info/info.png) **NOTE:** This Tutorial has some screenshots that are outdated, and it will be updated soon. But overall it should be pretty accurate.
+> ![](https://github.com/xoops/smartfaq-tutorial/tree/d31651f51362e8bde4fba68a371aaaf271be37c4/assets/info/info.png) **NOTE:** This Tutorial has some screenshots that are outdated, and it will be updated soon. But overall it should be pretty accurate.
 
 The **SmartFAQ** module has been designed and built for use with Xoops2 Content Management System platform. The module provides interactive features that allow the Web administrator and site users to post and respond to questions and answers. The module allows the administrator to create categories and sub-categories for the Q&As. Each category has a short description giving a clear reference for the type of material for that section. On selecting the module, users can immediately see the top level categories with their descriptions and also title links for any sub-categories that are included beneath. Navigation is via links that open each category or item for further viewing.
 

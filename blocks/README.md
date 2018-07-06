@@ -6,7 +6,7 @@ If the 'Did you know ... block is displayed, the more details link will open a p
 
 **Page: /modules/system/admin.php?fct=preferences&op=showmod&mod=24** 
 
-![image001.png](../.gitbook/assets/user-moredetails.png)
+![](../.gitbook/assets/user-moredetails.png)
 
 Fig. 29 Did you know block
 
@@ -16,7 +16,7 @@ If the Random Question block is displayed, clicking Answer here! link opens a de
 
 **Page: /modules/system/admin.php?fct=preferences&op=showmod&mod=24** 
 
-![image001.png](../.gitbook/assets/user-randomquestion.png)
+![](../.gitbook/assets/user-randomquestion.png)
 
 Fig. 30 Random question \(block\) answer link
 
@@ -26,7 +26,7 @@ If The How do I ... block is displayed, the answer here link opens a detailed pa
 
 **Page: /modules/smartfaq/faq.php?faqid=50** 
 
-![image001.png](../.gitbook/assets/user-weblinks.png)
+![](../.gitbook/assets/user-weblinks.png)
 
 Fig. 31 How do I ... \(block\) answer here! link.
 
