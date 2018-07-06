@@ -4,7 +4,7 @@
 
 ## Module SmartFAQ
 
-#### for XOOPS 2.5.8
+#### for XOOPS 2.5.9
 
 ![logoModule.png](.gitbook/assets/logomodule.png)
 
@@ -31,7 +31,7 @@ SmartFAQ, as you would probably have guessed it by the name, is a Frequently Ask
 
 ![image001.png](.gitbook/assets/img1.jpg)
 
-### Download/Fork the Module ![](http://xoops.org/images/forkit.png)
+## Download/Fork the Module ![](https://xoops.org/images/forkit.png) 
 
 **You can fork the module --&gt;** [**here**](https://github.com/XoopsModules25x/smartfaq)**\)**
 
@@ -70,9 +70,9 @@ Editing the book can be done either by updating the markdown files with a text e
 * [Request QA menu - link](request-qa-menu-link.md)
 * [Submit a Q&A menu - link](submit-a-q-and-a-menu-link.md)
 * [Blocks](blocks/)
-  * Did you know? block -More details link
-  * Random question block answer link
-  * How do I ... block answer here! link
+    * Did you know? block -More details link
+    * Random question block answer link
+    * How do I ... block answer here! link
 * [User Icons](user-icons/)
   * [User- Print](user-icons/user-print.md)
   * [User- Send](user-icons/user-send.md)
@@ -102,5 +102,6 @@ Editing the book can be done either by updating the markdown files with a text e
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 Unless specified, this content is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-All derivative works are to be attributed to XOOPS Project \([www.xoops.org](http://xoops.org)\)
+All derivative works are to be attributed to XOOPS Project \([www.xoops.org](https://xoops.org)\)
 
+All derivative works are to be attributed to XOOPS Project ([www.xoops.org](https://xoops.org))
