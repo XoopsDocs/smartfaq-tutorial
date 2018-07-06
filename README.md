@@ -28,7 +28,7 @@ SmartFAQ, as you would probably have guessed it by the name, is a Frequently Ask
 ![image001.png](en/assets/img1.jpg)
 *Figure 1: Main view of the Module Admin side*
 
-## Download/Fork the Module ![](http://xoops.org/images/forkit.png) 
+## Download/Fork the Module ![](https://xoops.org/images/forkit.png) 
 
 **You can fork the module --> [here](https://github.com/XoopsModules25x/smartfaq))** 
 
@@ -94,4 +94,4 @@ Editing the book can be done either by updating the markdown files with a text e
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-All derivative works are to be attributed to XOOPS Project ([www.xoops.org](http://xoops.org))
+All derivative works are to be attributed to XOOPS Project ([www.xoops.org](https://xoops.org))
