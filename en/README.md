@@ -1,14 +1,14 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](assets/logoXoops.jpg)
+![](assets/logoXoops.jpg)
 
 # Module SmartFAQ
 #### for XOOPS 2.5.7
 
-![logoModule.png](assets/logoModule.png)
+![](assets/logoModule.png)
 
 ## User Manual
 
-© 2016 XOOPS Project (www.xoops.org)
+© 2018 XOOPS Project (www.xoops.org)
 
 ## Module Purpose
 
@@ -25,7 +25,7 @@ SmartFAQ, as you would probably have guessed it by the name, is a Frequently Ask
 - If such a link is made, the Contextual Q&A block will display contextual Q&A relatively to where the user is on your site.
 - At any time, users can submit a better answer for a Q&A that already has an answer. This newly submitted answer will obviously need to be approved by a moderator.
 
-![image001.png](assets/img1.jpg)
+![](assets/img1.jpg)
 *Figure 1: Main view of the Module Admin side*
 
 ## Download/Fork the Module ![](https://xoops.org/images/forkit.png) 
@@ -90,7 +90,7 @@ Editing the book can be done either by updating the markdown files with a text e
 * [XOOPS Content Management System](book/references/12.4XOOPS.md)
 
 
-##License:
+## License:
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 

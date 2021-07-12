@@ -8,11 +8,11 @@ Read Permissions is very similar to the permissions page. The main difference is
 
 2- The permissions page is a better way to display all groups and their associated categories in one place.
 
-> ![image001.png](../.gitbook/assets/info.png) **NOTE:** Permissions set in Categories and Permissions tabs are dynamically linked, whatever you do in one is shown in the other.
+> ![](../.gitbook/assets/info.png) **NOTE:** Permissions set in Categories and Permissions tabs are dynamically linked, whatever you do in one is shown in the other.
 
 Page: /modules/smartfaq/admin/permissions.php
 
-![image001.png](../.gitbook/assets/permissions.png)
+![](../.gitbook/assets/permissions.png)
 
 Fig. 11 Permissions page
 

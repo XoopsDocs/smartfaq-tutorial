@@ -10,5 +10,5 @@ Lets move over the image to get detailed explanations of the table, then on the 
 
 **Page: /modules/smartfaq/admin/index.**
 
-![image001.png](../../.gitbook/assets/managet.png)
+![](../../.gitbook/assets/managet.png)
 
